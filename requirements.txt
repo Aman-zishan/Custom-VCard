@@ -5,3 +5,5 @@ pycodestyle==2.5.0
 pytz==2018.5
 sqlparse==0.2.4
 Pillow==2.2.1
+gunicorn
+django-heroku
